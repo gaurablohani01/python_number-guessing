@@ -16,11 +16,11 @@ If the user fails to guess the number within 7 tries, the correct number is reve
 
 ## 📂 File
 
-- `guess_game.py` – The main Python file containing the game logic.
+- `index.py` – The main Python file containing the game logic.
 
 ## ▶️ How to Run
 
 Make sure you have Python installed (version 3 or above). Then follow these steps:
 
 ```bash
-python guess_game.py
+python index.py
